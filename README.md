@@ -19,6 +19,7 @@ Clone the repository:
 
     git clone git://github.com/senshu/Sozi.git
 
+test
 
 Install the build tools and dependencies
 ----------------------------------------
